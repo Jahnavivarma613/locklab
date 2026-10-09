@@ -3,3 +3,6 @@ mutex_benchmark
 atomic_check
 *.o
 *.bak
+# Generated executables
+/os_demos
+/co1_demo
