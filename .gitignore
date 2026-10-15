@@ -6,3 +6,25 @@ atomic_check
 # Generated executables
 /os_demos
 /co1_demo
+/stack_demo
+/treiber_stack_test
+/treiber_stack_stress
+
+# Compiled executables
+/locklab
+/mutex_benchmark
+/os_demos
+/co1_demo
+/atomic_check
+/stack_demo
+/aba_demo
+/treiber_stack_test
+/treiber_stack_stress
+/ms_queue_stress
+/ms_queue_asan
+/ms_queue_tsan
+/ms_queue_tsan_nopie
+/ms_queue_tsan_clang
+/treiber_stack_asan
+/treiber_stack_normal
+/treiber_stack_tsan
